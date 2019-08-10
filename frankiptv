@@ -9,5 +9,5 @@ http://edge.wms28.lorini.net/promar/promar/chunklist_w590746241.m3u8
 http://www.trimi.com.ar/santa_maria/streaming/mystreamSantaMariaHSMed.m3u8
 #EXTINF:-1,TRAVEL HD
 http://31.13.223.104:1935/travel/community.stream/playlist.m3u8
-#EXTINF:-1,Mi video
+#EXTINF:0 Mi video
 https://drive.google.com/file/d/0BwdEsDPTKJaCdkNTREZZVnRlUlk/view?usp=drivesdk.m3u8
